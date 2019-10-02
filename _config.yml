@@ -4,6 +4,8 @@ baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
+remote_theme: owner/name
+
 name: Thomas Vaeth
 title: The Barber Theme
 description: >
